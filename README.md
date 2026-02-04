@@ -46,6 +46,8 @@ Adıyaman Üniversitesi **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beratcan-Polat&layout=compact&theme=transparent" alt="En Çok Kullanılan Diller">
 </p>
 
+<br>
+
 ### 🛠️ Öne Çıkan Projeler
 * **DialoAI:** İngilizce öğrenimi için geliştirilmiş yapay zeka destekli chatbot (FastAPI & React).
 * **RentManager v1.0:** C# Web API ve WinForms ile geliştirilmiş araç kiralama sistemi.
