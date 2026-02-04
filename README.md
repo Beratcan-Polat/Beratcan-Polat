@@ -36,9 +36,8 @@ Adıyaman Üniversitesi **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim 
   <img align="left" alt="Node.js" height="42px" src="https://skillicons.dev/icons?i=nodejs">
   
   <img align="left" alt="MySQL" height="42px" src="https://skillicons.dev/icons?i=mysql">
-  <img align="left" alt="SQL Server" height="42px" src="https://skillicons.dev/icons?i=mssql">
   <img align="left" alt="Git" height="42px" src="https://skillicons.dev/icons?i=git">
-  <img align="left" alt="Firebase" height="42px" src="https://skillicons.dev/icons?i=firebase">
+
 </p>
 
 <br><br>
