@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='20px' alt="linkedin"/>
 </a>
 
-<br/><br/>
+<br/>
 
 Adıyaman Üniversitesi **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim 🎓 ve **Full Stack Developer** olma yolunda ilerliyorum 🌐. Yeni teknolojileri keşfetmeyi ve yapay zeka entegreli projeler geliştirerek gerçek dünya problemlerine çözümler üretmeyi seviyorum 🛠️. 
 
