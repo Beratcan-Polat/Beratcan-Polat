@@ -37,7 +37,7 @@ Adıyaman Üniversitesi **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim 
   
   <img align="left" alt="MySQL" height="42px" src="https://skillicons.dev/icons?i=mysql">
   <img align="left" alt="Git" height="42px" src="https://skillicons.dev/icons?i=git">
-
+<br>
 </p>
 
 <br><br>
