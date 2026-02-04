@@ -26,16 +26,19 @@ Adıyaman Üniversitesi **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim 
 ### 🔨 Diller ve Araçlar:
 
 <p>
-  <img align="left" alt="Java" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg">
-  <img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg">
-  <img align="left" alt="C#" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/csharp/csharp.svg">
-  <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg">
-  <img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg">
-  <img align="left" alt="FastAPI" height="42px" src="https://img.icons8.com/color/48/000000/fastapi.png">
-  <img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
-  <img align="left" alt="MySQL" height="42px" src="https://img.icons8.com/color/48/000000/my-sql.png">
-  <img align="left" alt="SQL Server" height="42px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
-  <img align="left" alt="git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg">
+  <img align="left" alt="Java" height="42px" src="https://skillicons.dev/icons?i=java">
+  <img align="left" alt="Python" height="42px" src="https://skillicons.dev/icons?i=py">
+  <img align="left" alt="C#" height="42px" src="https://skillicons.dev/icons?i=cs">
+  <img align="left" alt="JavaScript" height="42px" src="https://skillicons.dev/icons?i=js">
+  
+  <img align="left" alt="React" height="42px" src="https://skillicons.dev/icons?i=react">
+  <img align="left" alt="FastAPI" height="42px" src="https://skillicons.dev/icons?i=fastapi">
+  <img align="left" alt="Node.js" height="42px" src="https://skillicons.dev/icons?i=nodejs">
+  
+  <img align="left" alt="MySQL" height="42px" src="https://skillicons.dev/icons?i=mysql">
+  <img align="left" alt="SQL Server" height="42px" src="https://skillicons.dev/icons?i=mssql">
+  <img align="left" alt="Git" height="42px" src="https://skillicons.dev/icons?i=git">
+  <img align="left" alt="Firebase" height="42px" src="https://skillicons.dev/icons?i=firebase">
 </p>
 
 <br><br>
