@@ -9,6 +9,8 @@
 
 Adıyaman Üniversitesi **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim 🎓 ve **Full Stack Developer** olma yolunda ilerliyorum 🌐. Yeni teknolojileri keşfetmeyi ve yapay zeka entegreli projeler geliştirerek gerçek dünya problemlerine çözümler üretmeyi seviyorum 🛠️.
 
+<br><br>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px">
 
 ### 🧐 Hakkımda Daha Fazlası:
