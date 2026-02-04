@@ -22,6 +22,7 @@ Adıyaman Üniversitesi **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim 
 * 💬   Bana **Java, C#, Python** veya **Web Geliştirme** hakkında sorular sorabilirsiniz.
 * 📫   Bana [LinkedIn](https://www.linkedin.com/in/beratcan-polat-ba437a24b/) üzerinden ulaşmaktan çekinmeyin.
 
+<br><br>
 ### 🔨 Diller ve Araçlar:
 
 <p>
