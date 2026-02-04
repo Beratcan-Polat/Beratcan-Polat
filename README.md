@@ -17,7 +17,7 @@ Adıyaman Üniversitesi **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim 
 
 * 🔭   Şu an **DialoAI** (Yapay zeka destekli İngilizce öğretim chatbotu) üzerinde çalışıyorum.
 * 🌱   **Java Spring Boot** ve **React.js** konularında kendimi derinlemesine geliştiriyorum.
-* 👨🏻‍💻   Projelerimin çoğuna [GitHub Profilimden](https://github.com/Beratcan-Polat) ulaşabilirsiniz.
+* 👨🏻‍💻   Projelerimin çoğuna [GitHub Profilimden](https://github.com/Beratcan-Polat?tab=repositories) ulaşabilirsiniz.
 * 🤖   **Yapay Zeka Entegrasyonu** (Hugging Face modelleri) ile projeler geliştirmeye odaklıyım.
 * 💬   Bana **Java, C#, Python** veya **Web Geliştirme** hakkında sorular sorabilirsiniz.
 * 📫   Bana [LinkedIn](https://www.linkedin.com/in/beratcan-polat-ba437a24b/) üzerinden ulaşmaktan çekinmeyin.
