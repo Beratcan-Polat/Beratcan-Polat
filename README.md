@@ -39,8 +39,8 @@ Adıyaman Üniversitesi **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim 
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beratcan-Polat&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Beratcan Polat GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beratcan-Polat&layout=compact&theme=transparent" alt="Most Used Languages" height="170" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Beratcan-Polat&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Beratcan-Polat&layout=compact&theme=transparent" />
 </p>
 
 
