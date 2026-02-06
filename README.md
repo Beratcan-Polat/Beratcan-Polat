@@ -6,7 +6,7 @@ Adıyaman Üniversitesi **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyb3MwYjFzbWJ0ZmJ5OG9tNTVmaHU1cm5xanNiOWkzazY2djZqNWp6MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/b29ccd076df9c6e0356cf2f4b40a1fc2ed03ee0cd9d3fa1d970b757096cb824c/68747470733a2f2f7777772e6d79776562776f726c642e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f7765622d64657369676e2d6b6572616c612e676966" width="360px"/>
   
 ### 🧐 Hakkımda Daha Fazlası
 
