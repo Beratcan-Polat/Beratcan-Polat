@@ -6,7 +6,7 @@ Adıyaman Üniversitesi **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyb3MwYjFzbWJ0ZmJ5OG9tNTVmaHU1cm5xanNiOWkzazY2djZqNWp6MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif" width="360px"/>
   
 ### 🧐 Hakkımda Daha Fazlası
 
