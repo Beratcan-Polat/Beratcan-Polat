@@ -50,5 +50,5 @@ Adıyaman Üniversitesi **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim 
 
 - **DialoAI:** İngilizce öğrenimi için geliştirilmiş yapay zeka destekli chatbot (FastAPI & React).
 - **RentManager v1.0:** C# Web API ve WinForms ile geliştirilmiş araç kiralama sistemi.
-- **Periyodik Tablo:** Sadece HTML ve CSS kullanılarak hazırlanmış kapsamlı okul projesi.
+- **Atomik Bilgi:** Sadece HTML ve CSS kullanılarak hazırlanmış kapsamlı okul projesi.
 
