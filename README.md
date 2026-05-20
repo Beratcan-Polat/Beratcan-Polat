@@ -49,6 +49,6 @@ Adıyaman Üniversitesi **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim 
 ### 🛠️ Öne Çıkan Projeler
 
 - **DialoAI:** İngilizce öğrenimi için geliştirilmiş yapay zeka destekli chatbot (FastAPI & React).
-- **RentManager v1.0:** C# Web API ve WinForms ile geliştirilmiş araç kiralama sistemi.
+- **RentACar-Desktop-System:** C# Web API ve WinForms ile geliştirilmiş araç kiralama sistemi.
 - **Atomik Bilgi:** Sadece HTML ve CSS kullanılarak hazırlanmış kapsamlı okul projesi.
 
