@@ -22,44 +22,18 @@ Adıyaman Üniversitesi **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim 
 
 ### 🔨 Diller ve Araçlar
 
-<p>
-  <a href="https://www.java.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="42" height="42"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="42" height="42"/>
-  </a>
-  <a href="https://www.php.net/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="42" height="42"/>
-  </a>
-  <a href="https://laravel.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="42" height="42"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="42" height="42"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="42" height="42"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="42" height="42"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="42" height="42"/>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="42" height="42"/>
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="42" height="42"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="42" height="42"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="42" height="42"/>
-  </a>
-</p>
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" alt="Java" height="42px"/></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" height="42px"/></a>
+<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" height="42px"/></a>
+<a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel" height="42px"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="Python" height="42px"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="42px"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" height="42px"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" alt="JavaScript" height="42px"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="React" height="42px"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" alt="Node.js" height="42px"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="42px"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height="42px"/></a>
 
 
 <br>
