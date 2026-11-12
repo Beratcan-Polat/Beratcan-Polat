@@ -11,7 +11,7 @@ Adıyaman Üniversitesi **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim 
 ### 🧐 Hakkımda Daha Fazlası
 
 - 🔭 &nbsp; Şu an **DialoAI** (Yapay zeka destekli İngilizce öğretim chatbotu) üzerinde çalışıyorum.
-- 🌱 &nbsp; **Java Spring Boot** ve **React.js** konularında kendimi derinlemesine geliştiriyorum.
+- 🌱 &nbsp; Şu sıralar **PHP ve Laravel** öğreniyor, **Java Spring Boot** ve **React.js** konularında kendimi geliştiriyorum.
 - 👨🏻‍💻 &nbsp; Projelerimin çoğuna [GitHub Profilimden](https://github.com/Beratcan-Polat?tab=repositories) ulaşabilirsiniz.
 - 🤖 &nbsp; **Yapay Zeka Entegrasyonu** (Hugging Face modelleri) ile projeler geliştirmeye odaklıyım.
 - 💬 &nbsp; Bana **Java, C#, Python** veya **Web Geliştirme** hakkında sorular sorabilirsiniz.
@@ -24,6 +24,8 @@ Adıyaman Üniversitesi **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim 
 
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" alt="Java" height="42px"/></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" height="42px"/></a>
+<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" height="42px"/></a>
+<a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel" height="42px"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="Python" height="42px"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="42px"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" height="42px"/></a>
@@ -32,6 +34,7 @@ Adıyaman Üniversitesi **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim 
 <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" alt="Node.js" height="42px"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="42px"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height="42px"/></a>
+
 
 <br>
 
